@@ -1,8 +1,8 @@
 # Moz Pro Coupons: Verified Deals for SEO Tools
 
-![d27a0d74-ed8a-44e0-a93f-fcb521fd6608.webp](attachment:2c6c265c-9296-4da1-89ef-e0d23bc849cf:d27a0d74-ed8a-44e0-a93f-fcb521fd6608.webp)
-
----
+!<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1ueznyXVgWOJF_dJYnIXchuMPlhm2GxkC"  alt="Mozpro Homepage">
+</a>
 
 Looking to boost your SEO without breaking the bank? **Moz Pro** is one of the most trusted SEO tools on the market, and with the right discount, it becomes even more valuable.
 
