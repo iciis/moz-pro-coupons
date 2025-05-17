@@ -83,7 +83,9 @@ Ready to level up your SEO strategy? Don’t miss the chance to use these **veri
 
 ### Step 3: **Go to the Moz Pro Website**
 
-
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1iAXpGFmNFJbmekPgtPgYetPq3mzRmH3V"  alt="Mozpro Free Trial Page">
+</a>
 
 * Visit: [https://moz.com/products/pro](https://moz.com/products/pro)
 
@@ -106,7 +108,9 @@ Ready to level up your SEO strategy? Don’t miss the chance to use these **veri
 
 ###  Step 6: **Sign Up / Log In to Moz**
 
-
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1iAXpGFmNFJbmekPgtPgYetPq3mzRmH3V"  alt="Mozpro Free Trial Page">
+</a>
 
 * If you’re a new user: enter your details and create an account.
 * If you already have a Moz account: just log in.
@@ -125,7 +129,9 @@ Ready to level up your SEO strategy? Don’t miss the chance to use these **veri
 
 ### Step 9: **Complete the Payment**
 
-
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1BtgsciVRLJEfRpSlJUa6FOwqSPeqp5aD"  alt="Mozpro Billing">
+</a>
 
 * Fill in your payment details.
 * Confirm your subscription or free trial.
