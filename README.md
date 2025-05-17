@@ -83,6 +83,8 @@ Ready to level up your SEO strategy? Don’t miss the chance to use these **veri
 
 ### Step 3: **Go to the Moz Pro Website**
 
+
+
 * Visit: [https://moz.com/products/pro](https://moz.com/products/pro)
 
 ### Step 4: **Click "Try Moz Pro" or "Get Started"**
@@ -104,6 +106,8 @@ Ready to level up your SEO strategy? Don’t miss the chance to use these **veri
 
 ###  Step 6: **Sign Up / Log In to Moz**
 
+
+
 * If you’re a new user: enter your details and create an account.
 * If you already have a Moz account: just log in.
 
@@ -121,6 +125,8 @@ Ready to level up your SEO strategy? Don’t miss the chance to use these **veri
 
 ### Step 9: **Complete the Payment**
 
+
+
 * Fill in your payment details.
 * Confirm your subscription or free trial.
 * You’re done! 
@@ -130,6 +136,10 @@ Ready to level up your SEO strategy? Don’t miss the chance to use these **veri
 * Moz Pro usually offers a **30-day free trial** without needing a coupon.
 * Coupons typically apply to the **first billing cycle** only.
 * If a coupon doesn’t work, try another from a different site
+
+<a href="https://afftrend.com/mozpro"> 
+<img src="https://drive.google.com/uc?export=view&id=1l-ouegktdJAOSFXBIiBNQLOVsuUwUcqb" alt="See How it Works"> 
+</a>
 
 ## **Common Issues & Troubleshooting**
 
