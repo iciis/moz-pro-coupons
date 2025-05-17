@@ -84,7 +84,7 @@ Ready to level up your SEO strategy? Don’t miss the chance to use these **veri
 ### Step 3: **Go to the Moz Pro Website**
 
 <a href="https://afftrend.com/mozpro">
-  <img src="https://drive.google.com/uc?export=view&id=1iAXpGFmNFJbmekPgtPgYetPq3mzRmH3V"  alt="Mozpro Free Trial Page">
+  <img src="https://drive.google.com/uc?export=view&id=1iAXpGFmNFJbmekPgtPgYetPq3mzRmH3V"  alt="Mozpro Page">
 </a>
 
 * Visit: [https://moz.com/products/pro](https://moz.com/products/pro)
@@ -95,7 +95,9 @@ Ready to level up your SEO strategy? Don’t miss the chance to use these **veri
 
 ### Step 5: **Choose a Plan**
 
-
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1EGt-1CNfv_GUjTYgs67wIrhs4Vk3kVqD"  alt="Mozpro Pricing">
+</a>
 
 * Select either:
 
@@ -108,14 +110,14 @@ Ready to level up your SEO strategy? Don’t miss the chance to use these **veri
 
 ###  Step 6: **Sign Up / Log In to Moz**
 
-<a href="https://afftrend.com/mozpro">
-  <img src="https://drive.google.com/uc?export=view&id=1iAXpGFmNFJbmekPgtPgYetPq3mzRmH3V"  alt="Mozpro Free Trial Page">
-</a>
-
 * If you’re a new user: enter your details and create an account.
 * If you already have a Moz account: just log in.
 
-### Step 7: **Enter the Coupon Code**
+### Step 7: **Account Setup**
+
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1Rn9skg_wkVn_IxmiAsXGSZABXzERlA8c"  alt="Mozpro Account Setup">
+</a>
 
 * On the checkout or billing page, look for a field labeled:
 
@@ -127,7 +129,7 @@ Ready to level up your SEO strategy? Don’t miss the chance to use these **veri
 * Click **“Apply”**.
 * You should see the discount reflected in the total amount.
 
-### Step 9: **Complete the Payment**
+### Step 9: **Complete the Billing Information**
 
 <a href="https://afftrend.com/mozpro">
   <img src="https://drive.google.com/uc?export=view&id=1BtgsciVRLJEfRpSlJUa6FOwqSPeqp5aD"  alt="Mozpro Billing">
