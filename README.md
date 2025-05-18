@@ -1,4 +1,4 @@
-# Moz Pro Coupons: Verified Deals for SEO Tools
+# Moz Pro Coupon Codes, Discount Deals & Offer in 2025
 
 Looking to boost your SEO without breaking the bank? **Moz Pro** is one of the most trusted SEO tools on the market, and with the right discount, it becomes even more valuable.
 
